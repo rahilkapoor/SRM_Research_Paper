@@ -1,0 +1,68 @@
+.my-login-page {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.my-login-page .brand {
+	width: 90px;
+	height: 90px;
+	overflow: hidden;
+	border-radius: 50%;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+	position: relative;
+	z-index: 1;
+}
+
+.button-login {
+	margin-top: 30px;
+	margin: 15px;
+	width: 90%;
+	border-radius: 10px;
+	border: none;
+	cursor: pointer;
+	font-size: 18px;
+	color: black;
+	background-color: #ffcf0d;
+	height: 40px;
+}
+
+.my-login-page .brand img {
+	width: 100%;
+}
+
+.my-login-page .card-wrapper {
+	width: 400px;
+}
+
+.my-login-page .card {
+	border-color: transparent;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.my-login-page .card.fat {
+	padding: 10px;
+	height: 400px;
+}
+
+.my-login-page .card .card-title {
+	margin-bottom: 30px;
+}
+
+.my-login-page .form-control {
+	border: 2px solid #ccc;
+	padding: 10px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+
+.my-login-page .form-control:focus {
+	border: 2.3px solid #ffcf0d;
+	border-radius: 5px;
+}
+
+.my-login-page .form-group label {
+	width: 100%;
+	font-size: 14px;
+}

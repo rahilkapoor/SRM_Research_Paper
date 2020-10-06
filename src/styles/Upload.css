@@ -1,0 +1,27 @@
+.container__p {
+	display: flex;
+	width: 100%;
+	min-height: 350px;
+	background-color: #cfff98;
+	border: 4px dashed #4caf50;
+	align-items: center;
+	justify-content: center;
+}
+
+.dropzone {
+	display: flex;
+	justify-content: space-around;
+	margin: 80px 160px;
+	border: none;
+}
+
+.upload__info {
+	background-color: blueviolet;
+	display: flex;
+	flex-direction: column;
+}
+
+.container > h4 {
+	display: flex;
+	justify-content: center;
+}

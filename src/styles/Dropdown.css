@@ -1,0 +1,16 @@
+.tile__unit > select {
+	border: none;
+	background-color: #333;
+	color: white;
+	font-size: 17px;
+	outline: none;
+	width: 55%;
+}
+.tile__semester > select {
+	border: none;
+	background-color: #333;
+	color: white;
+	font-size: 17px;
+	outline: none;
+	width: 55%;
+}

@@ -1,0 +1,43 @@
+.tile {
+	background-color: #333;
+	width: 90%;
+	display: flex;
+	color: white;
+	align-items: center;
+	justify-content: center;
+	border-radius: 8px;
+	padding: 8px 25px;
+	margin: 10px;
+	/* justify-content: space-evenly; */
+}
+
+.tile__name {
+	font-size: 20px;
+	display: flex;
+	flex: 4;
+}
+.tile__unit {
+	font-size: 18px;
+	display: flex;
+	flex: 2;
+}
+.tile__subject {
+	font-size: 18px;
+	display: flex;
+	flex: 5;
+}
+.tile__semester {
+	font-size: 18px;
+	display: flex;
+	flex: 2;
+}
+.tile__likes {
+	font-size: 18px;
+	display: flex;
+	flex: 1;
+}
+.tile__view {
+	font-size: 18px;
+	display: flex;
+	flex: 1;
+}

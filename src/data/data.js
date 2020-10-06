@@ -1,0 +1,178 @@
+const files = [
+	{
+		id: 1,
+		name: "file1",
+		unit: 1,
+		subject: "maths",
+		semester: 5,
+		likes: 13,
+		target:
+			"https://www.fisica.net/relatividade/stephen_hawking_a_brief_history_of_time.pdf",
+	},
+	{
+		id: 2,
+		name: "Unit-1 Ppt",
+		unit: 3,
+		subject: "computer networks",
+		semester: 6,
+		likes: 5,
+		target:
+			"https://www.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_docs_google-128.png",
+	},
+	{
+		id: 3,
+		name: "Hand Written",
+		unit: 2,
+		subject: "maths",
+		semester: 3,
+		likes: 56,
+		target:
+			"https://www.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_google_sheets-128.png",
+	},
+	{
+		id: 94,
+		name: "uadsfasdf",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 84,
+		name: "unit 1 asdfasd 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 74,
+		name: "unafdsfas 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 64,
+		name: "unadsfadfsm 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 54,
+		name: "adsfafd 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 34,
+		name: "unit 1 adsfaadf 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 244,
+		name: "unit sdfa1 sdfasdf 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 48,
+		name: "unit adsf1 sdfadsf 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 47,
+		name: "uniadsfadf 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 46,
+		name: "unfdaadsfam 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 45,
+		name: "unit 1 afd 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 44,
+		name: "unaiat 1 adsfasdf 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 43,
+		name: "uadsfasdfem 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 24,
+		name: "a 1 sem 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 14,
+		name: "unit 1 a 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 5,
+		name: "unift 1 sef 2",
+		unit: 1,
+		semester: 2,
+	},
+	{
+		id: 6,
+		name: "d 2 d 1",
+		unit: 2,
+		semester: 1,
+	},
+	{
+		id: 7,
+		name: "unit 2 sem 2",
+		unit: 2,
+		semester: 2,
+	},
+	{
+		id: 10,
+		name: "unit 1 sem 1",
+		unit: 1,
+		semester: 1,
+	},
+	{
+		id: 11,
+		name: "unit 1 sem 3",
+		unit: 1,
+		semester: 3,
+	},
+	{
+		id: 12,
+		name: "unit 3 sem 1",
+		unit: 3,
+		semester: 1,
+	},
+	{
+		id: 13,
+		name: "unit 3 sem 3",
+		unit: 3,
+		semester: 3,
+	},
+	{
+		id: 8,
+		name: "unit 1 sem 4",
+		unit: 1,
+		semester: 4,
+	},
+	{
+		id: 9,
+		name: "unit 2 sem 8",
+		unit: 2,
+		semester: 8,
+	},
+];
+
+export default files;

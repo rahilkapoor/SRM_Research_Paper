@@ -1,0 +1,9 @@
+.home {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	max-width: 1300px;
+	margin: 50px;
+	height: 100%;
+}

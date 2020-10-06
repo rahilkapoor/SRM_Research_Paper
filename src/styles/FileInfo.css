@@ -1,0 +1,6 @@
+.fileinfo {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: royalblue;
+	padding: 10px 20px;
+}
